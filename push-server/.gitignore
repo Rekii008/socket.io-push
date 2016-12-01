@@ -13,4 +13,8 @@ ip
 localstorage/
 num_processes
 server_master_pid
+!node_modules/socket.io/*
+!node_modules/socket.io-adapter/*
+!node_modules/engine.io/*
+!node_modules/socket.io-client/*
 
